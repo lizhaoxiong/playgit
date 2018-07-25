@@ -12,3 +12,4 @@ i am wrote a line on the dev
 
 just go and run
 
+just --no-ff
