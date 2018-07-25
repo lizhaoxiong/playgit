@@ -5,3 +5,5 @@ git add License文本文件
 i am so handsome and beautiful
 
 i like a girl and a boy
+
+yes , i have conneted github, oh ,it is nice
