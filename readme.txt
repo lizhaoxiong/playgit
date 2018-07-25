@@ -10,4 +10,5 @@ yes , i have conneted github, oh ,it is nice
 
 i am wrote a line on the dev
 
-just go & run
+just go and run
+
