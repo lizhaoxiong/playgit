@@ -14,7 +14,8 @@ just go and run
 
 just --no-ff
 
-i am doing some work ,maybe two day can ok
+i am doing some work ,maybe three day can ok!!!
+i never do this wrong things
 
 work over
  1111
