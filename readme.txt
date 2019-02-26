@@ -15,7 +15,7 @@ just go and run
 just --no-ff
 
 i am doing some work ,maybe three day can ok!!!
-i never do this wrong things
+i never do this wrong things +1
 
 work over
  1111
