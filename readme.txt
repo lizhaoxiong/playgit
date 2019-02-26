@@ -12,7 +12,7 @@ i am wrote a line on the dev
 
 just go and run
 
-just --no-ff
+just --no-ff 1
 
 i am doing some work ,maybe three day can ok!!!
 i never do this wrong things +1
